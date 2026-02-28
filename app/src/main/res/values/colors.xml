@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Orange/Amber Theme -->
+    <color name="primary">#FF6F3D0C</color>
+    <color name="primary_light">#FFE8B4A8</color>
+    <color name="primary_dark">#FF4A2511</color>
+    
+    <!-- Secondary Colors - Teal Accent -->
+    <color name="secondary">#FF00897B</color>
+    <color name="secondary_light">#FF4DB6AC</color>
+    <color name="secondary_dark">#FF00695C</color>
+    
+    <!-- Surface and Background Colors -->
+    <color name="surface">#FFFBF7</color>
+    <color name="surface_variant">#FFEDE0</color>
+    <color name="background">#FFFBF7</color>
+    
+    <!-- Neutral Colors -->
+    <color name="black">#FF1C1B1F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#FFECE6</color>
+    <color name="gray_medium">#FF79747E</color>
+    <color name="gray_dark">#FF49454E</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#FF28A745</color>
+    <color name="error">#FFD32F2F</color>
+    <color name="warning">#FFFFA726</color>
+    <color name="info">#FF1976D2</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FF1C1B1F</color>
+    <color name="text_secondary">#FF49454E</color>
+    <color name="text_hint">#FF79747E</color>
+    
+    <!-- Card and Surface -->
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="card_shadow">#1A000000</color>
+</resources>
+
+
+

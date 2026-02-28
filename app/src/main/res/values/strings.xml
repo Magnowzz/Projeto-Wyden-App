@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lanchonete App</string>
+    <string name="titulo_pedidos">Pedidos</string>
+    <string name="novo_pedido">Novo Pedido</string>
+    <string name="pesquisa_satisfacao">Pesquisa de Satisfação</string>
+    <string name="cliente">Cliente</string>
+    <string name="item">Item</string>
+    <string name="preco">Preço</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="adicionar_item">Adicionar Item</string>
+    <string name="salvar_pedido">Salvar Pedido</string>
+    <string name="total">Total: R$ %.2f</string>
+    <string name="avaliar_pedido">Avaliar Pedido</string>
+    <string name="nota">Nota</string>
+    <string name="comentario">Comentário</string>
+    <string name="enviar_avaliacao">Enviar Avaliação</string>
+    <string name="status_pendente">Pendente</string>
+    <string name="status_preparando">Preparando</string>
+    <string name="status_pronto">Pronto</string>
+    <string name="status_entregue">Entregue</string>
+</resources>
+
+
+
+

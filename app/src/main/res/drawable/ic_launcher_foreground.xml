@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Hambúrguer - Pão de Cima -->
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M27,36 L81,36 Q84,36 84,39 L84,43 Q84,46 81,46 L27,46 Q24,46 24,43 L24,39 Q24,36 27,36 Z"/>
+    
+    <!-- Alface -->
+    <path
+        android:fillColor="#228B22"
+        android:pathData="M27,46 L81,46 L81,51 L27,51 Z"/>
+    
+    <!-- Queijo -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M27,51 L81,51 L81,57 L27,57 Z"/>
+    
+    <!-- Carne -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M27,57 L81,57 L81,65 L27,65 Z"/>
+    
+    <!-- Tomate -->
+    <path
+        android:fillColor="#FF6347"
+        android:pathData="M27,65 L81,65 L81,70 L27,70 Z"/>
+    
+    <!-- Pão de Baixo -->
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M27,70 L81,70 Q84,70 84,73 L84,77 Q84,80 81,80 L27,80 Q24,80 24,77 L24,73 Q24,70 27,70 Z"/>
+    
+</vector>
